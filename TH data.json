@@ -1,0 +1,302 @@
+{
+    "homeData": {
+        "thumbnails": [
+            {
+                "targetId": 0,
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%201.jpg",
+                "name": "musuem 1 TH",
+                "description": "description 1 TH",
+                "type": "None"
+            },
+            {
+                "targetId": 1,
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%202.JPG",
+                "name": "musuem 2 TH",
+                "description": "description 2 TH",
+                "type": "None"
+            },
+            {
+                "targetId": 2,
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%203.jpg",
+                "name": "musuem 3 TH",
+                "description": "description 3 TH",
+                "type": "None"
+            },
+            {
+                "targetId": 3,
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/Peerasri_1.jpg",
+                "name": "musuem 4 TH",
+                "description": "description 4 TH",
+                "type": "None"
+            }
+        ]
+    },
+    "ItemThumbnails": {
+        "musuemId": [ 0, 1, 0, 2, 0, 3, 1 ],
+        "buttons": [
+            {
+                "targetId": 0,
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/Peerasri_1.jpg",
+                "name": "artefact 1 TH",
+                "description": "description artefact 1 TH",
+                "type": "Artefact"
+            },
+            {
+                "targetId": 1,
+                "imageLink": "https://www.wikihow.com/images/thumb/2/21/Get-the-URL-for-Pictures-Step-5-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-5-Version-3.jpg",
+                "name": "artefact 2 TH",
+                "description": "description artefact 2 TH",
+                "type": "Artefact"
+            },
+            {
+                "targetId": 2,
+                "imageLink": "https://www.wikihow.com/images/thumb/2/27/Get-the-URL-for-Pictures-Step-15-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-15-Version-3.jpg",
+                "name": "artefact 3 TH",
+                "description": "description artefact 3 TH",
+                "type": "Artefact"
+            },
+            {
+                "targetId": 3,
+                "imageLink": "https://www.wikihow.com/images/thumb/2/27/Get-the-URL-for-Pictures-Step-15-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-15-Version-3.jpg",
+                "name": "artefact 4 TH",
+                "description": "description artefact 4 TH",
+                "type": "Artefact"
+            },
+            {
+                "targetId": 4,
+                "imageLink": "https://www.wikihow.com/images/thumb/a/a5/Get-the-URL-for-Pictures-Step-16-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-16-Version-3.jpg",
+                "name": "building 1 TH",
+                "description": "description building 1 TH",
+                "type": "Building"
+            },
+            {
+                "targetId": 5,
+                "imageLink": "https://www.wikihow.com/images/thumb/a/a5/Get-the-URL-for-Pictures-Step-16-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-16-Version-3.jpg",
+                "name": "building 2 TH",
+                "description": "description building 2 TH",
+                "type": "Building"
+            },
+            {
+                "targetId": 6,
+                "imageLink": "https://www.wikihow.com/images/thumb/a/a5/Get-the-URL-for-Pictures-Step-16-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-16-Version-3.jpg",
+                "name": "building 3 TH",
+                "description": "description building 3 TH",
+                "type": "Building"
+            }
+        ]
+    },
+    "itemDatas": [
+        {
+            "id": 0,
+            "name": "Artefact 1 TH",
+            "content": "Artefact 1 content TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "isVideo": false,
+            "model": "https://github.com/kongkrisch/FineArtTest/raw/master/musuem1.model",
+            "modelName": "model 1-12",
+            "modelVersion": 0
+        },
+        {
+            "id": 1,
+            "name": "Artefact 2 TH",
+            "content": "Artefact 2 content TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "isVideo": false,
+            "model": "https://github.com/kongkrisch/FineArtTest/raw/master/musuem1.model",
+            "modelName": "model 1-12",
+            "modelVersion": 0
+        },
+        {
+            "id": 2,
+            "name": "Artefact 3 TH",
+            "content": "Artefact 3 content TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CGI%203D%20Animated%20Short_%20_Decaf_%20-%20by%20The%20Animation%20School.mp4",
+            "isVideo": true,
+            "model": "",
+            "modelName": "",
+            "modelVersion": 0
+        },
+        {
+            "id": 3,
+            "name": "Artefact 4 TH",
+            "content": "Artefact 4 content TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Peerasri_1.jpg",
+            "isVideo": false,
+            "model": "",
+            "modelName": "",
+            "modelVersion": 0
+        },
+        {
+            "id": 4,
+            "name": "Building TH 1",
+            "content": "Building 1 content TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "isVideo": false,
+            "model": "file://D:/Work/FineArt/Assets/Bundles/musuem2",
+            "modelName": "Cube",
+            "modelVersion": 0
+        },
+        {
+            "id": 5,
+            "name": "Building TH 2",
+            "content": "Building 2 content TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "isVideo": false,
+            "model": "https://images.unsplash.com/photo-1517524285303-d6fc683dddf8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+            "modelName": "",
+            "modelVersion": 0
+        },
+        {
+            "id": 6,
+            "name": "Building TH 3",
+            "content": "Building 3 content TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "isVideo": false,
+            "model": "https://images.unsplash.com/photo-1504660069764-2b37e279874a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+            "modelName": "",
+            "modelVersion": 0
+        }
+    ],
+    "mapDatas": [
+        {
+            "id": 0,
+            "mapImage": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "buttons": [
+                {
+                    "targetId": 4,
+                    "targetName": "Gound Pano 1 TH",
+                    "type": "None",
+                    "positionX": 0.0,
+                    "positionY": 0.0,
+                    "positionZ": 0.0
+                },
+                {
+                    "targetId": 5,
+                    "targetName": "Gound Pano 2 TH",
+                    "type": "None",
+                    "positionX": 0.0,
+                    "positionY": 120.0,
+                    "positionZ": 0.0
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "mapImage": "https://github.com/kongkrisch/FineArtTest/raw/master/home%201.jpg",
+            "buttons": [
+                {
+                    "targetId": 0,
+                    "targetName": "Air Pano 1 TH",
+                    "type": "None",
+                    "positionX": 0.0,
+                    "positionY": 0.0,
+                    "positionZ": 0.0
+                }
+            ]
+        }
+    ],
+    "panoDatas": [
+        {
+            "id": 0,
+            "musuemMapId": 0,
+            "name": "Air Pano 1 TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "panoImage": "https://github.com/kongkrisch/FineArtTest/raw/master/home%204.jpg",
+            "content": "Air Pano 1 content TH",
+            "buttons": [
+                {
+                    "targetId": 4,
+                    "targetName": "Gound Pano 1 TH",
+                    "type": "None",
+                    "positionX": 0.0,
+                    "positionY": 0.0,
+                    "positionZ": 4.15
+                },
+                {
+                    "targetId": 5,
+                    "targetName": "Gound Pano 2 TH",
+                    "type": "None",
+                    "positionX": 0.0,
+                    "positionY": 1.15,
+                    "positionZ": 4.15
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "musuemMapId": 1,
+            "name": "Air Pano 2 TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "panoImage": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "content": "content TH",
+            "buttons": [
+                {
+                    "targetId": 6,
+                    "targetName": "SomeWhere 1 TH",
+                    "type": "None",
+                    "positionX": 1.5,
+                    "positionY": 0.0,
+                    "positionZ": 1.5
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "musuemMapId": 0,
+            "name": "Gound Pano 1 TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "panoImage": "https://github.com/kongkrisch/FineArtTest/raw/master/home%204.jpg",
+            "content": "content TH",
+            "buttons": [
+                {
+                    "targetId": 0,
+                    "targetName": "Building 1 TH",
+                    "type": "Building",
+                    "positionX": 0.0,
+                    "positionY": 0.0,
+                    "positionZ": 4.15
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "musuemMapId": 1,
+            "name": "Gound Pano 2 TH",
+            "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+            "panoImage": "https://github.com/kongkrisch/FineArtTest/raw/master/home%204.jpg",
+            "content": "content TH",
+            "buttons": [
+                {
+                    "targetId": 1,
+                    "targetName": "Artefact 2 TH",
+                    "type": "Artefact",
+                    "positionX": 0.0,
+                    "positionY": 0.0,
+                    "positionZ": 4.15
+                }
+            ]
+        }
+    ],
+    "musuemInfoContentDatas": [
+        {
+            "panoId": 0,
+            "headers": [ "1 header 1 TH", "header 2", "header 3", "headwe 4" ],
+            "contents": [ "1 content 1 TH", "content 2", "content 3", "content 4" ]
+        },
+        {
+            "panoId": 1,
+            "headers": [ "2 header 1 TH", "header 2", "header 3", "headwe 4" ],
+            "contents": [ "2 content 1 TH", "content 2", "content 3", "content 4" ]
+        },
+        {
+            "panoId": 2,
+            "headers": [ "3 header 1 TH", "header 2", "header 3", "headwe 4" ],
+            "contents": [ "3 content 1 TH", "content 2", "content 3", "content 4" ]
+        },
+        {
+            "panoId": 3,
+            "headers": [ "4 header 1 TH", "header 2", "header 3", "headwe 4" ],
+            "contents": [ "4 content 1 TH", "content 2", "content 3", "content 4" ]
+        }
+    ]
+}
