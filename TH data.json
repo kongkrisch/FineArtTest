@@ -3,14 +3,14 @@
         "thumbnails": [
             {
                 "targetId": 0,
-                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%201.jpg",
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/1-01.jpg",
                 "name": "musuem 1 TH\nABC",
                 "description": "description 1 TH",
                 "type": "None"
             },
             {
                 "targetId": 1,
-                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%202.JPG",
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/Peerasi1_1mb.jpg",
                 "name": "musuem 2 TH",
                 "description": "description 2 TH",
                 "type": "None"
