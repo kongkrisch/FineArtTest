@@ -86,16 +86,6 @@
         ]
     },
     "itemDatas": [
-        //{
-        //    "id": 0,
-        //    "name": "Artefact 1 TH",
-        //    "content": "Artefact 1 content TH",
-        //    "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
-        //    "isVideo": false,
-        //    "model": "https://github.com/kongkrisch/FineArtTest/raw/master/testZip.zip", //"C:/Users/Kongkrisch.l/Desktop/TestImageZiping.zip", //"https://github.com/kongkrisch/FineArtTest/raw/master/musuem1.model",
-        //    "modelName": "",
-        //    "modelVersion": 0
-        //},
         {
             "id": 0,
             "name": "Artefact 1 TH",
@@ -108,14 +98,24 @@
         },
         {
             "id": 1,
-            "name": "Artefact 2 TH",
-            "content": "Artefact 2 content TH",
+            "name": "Artefact 1 TH",
+            "content": "Artefact 1 content TH",
             "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
             "isVideo": false,
-            "model": "C:/Users/Kongkrisch.l/Desktop/TestImageZiping.zip",
+            "model": "https://github.com/kongkrisch/FineArtTest/raw/master/testZip.zip", //"C:/Users/Kongkrisch.l/Desktop/TestImageZiping.zip", //"https://github.com/kongkrisch/FineArtTest/raw/master/musuem1.model",
             "modelName": "",
             "modelVersion": 0
         },
+        //{
+        //    "id": 1,
+        //    "name": "Artefact 2 TH",
+        //    "content": "Artefact 2 content TH",
+        //    "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+        //    "isVideo": false,
+        //    "model": "C:/Users/Kongkrisch.l/Desktop/TestImageZiping.zip",
+        //    "modelName": "",
+        //    "modelVersion": 0
+        //},
         //{
         //    "id": 1,
         //    "name": "Artefact 2 TH",
