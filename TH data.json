@@ -50,7 +50,7 @@
             },
             {
                 "targetId": 2,
-                "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri2.jpg", //"https://www.wikihow.com/images/thumb/2/27/Get-the-URL-for-Pictures-Step-15-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-15-Version-3.jpg",
+                "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri2.jpg",
                 "name": "artefact 3 EN",
                 "description": "description artefact 3 EN",
                 "type": "Artefact"
@@ -64,14 +64,14 @@
             },
             {
                 "targetId": 3,
-                "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri3.jpg", //"https://www.wikihow.com/images/thumb/2/27/Get-the-URL-for-Pictures-Step-15-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-15-Version-3.jpg",
+                "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri3.jpg", 
                 "name": "artefact 5 EN",
                 "description": "description artefact 5 EN",
                 "type": "Artefact"
             },
             {
                 "targetId": 3,
-                "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri4.jpg", //"https://www.wikihow.com/images/thumb/2/27/Get-the-URL-for-Pictures-Step-15-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-15-Version-3.jpg",
+                "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri4.jpg", 
                 "name": "artefact 6 EN",
                 "description": "description artefact 6 EN",
                 "type": "Artefact"
