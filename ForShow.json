@@ -46,7 +46,7 @@
     "buttons": [
       {
         "targetId": 0,
-        "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri1.jpg",
+        "imageLink": "https://www.wikihow.com/images/thumb/2/21/Get-the-URL-for-Pictures-Step-5-Version-3.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-5-Version-3.jpg",
         "name": "พระพุทธรูปปางมารวิชัยภายในซุ้มเรือนแก้ว",
         "description": "description artefact 1 TH",
         "type": "Artefact"
@@ -111,10 +111,10 @@
   },
   "itemDatas": [
     {
-      "id": 0,
+      "id": 7,
       "name": "พระพุทธรูปปางมารวิชัยภายในซุ้มเรือนแก้ว",
       "content": "สร้างขึ้นในสมัยลพบุรี พุทธศตวรรษที่ 16-18 กรมศิลปากร ซื้อมาจากหม่อมเจ้าปิยะภักดีนาถ เมื่อวันที่ 31 ธันวาคม พ.ศ.2479",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "isVideo": false,
       "model": "https://github.com/kongkrisch/FineArtTest/raw/master/M11.zip",
       "modelName": "",
@@ -124,7 +124,7 @@
       "id": 1,
       "name": "ฉลองพระองค์ ของพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 4",
       "content": "ฉลองพระองค์ ของพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 4 ชุดเครื่องแบบอย่างยุโรป ผ้าสักหลาดปักดิ้นทองดิ้นเงินรูปใบและผลต้นโอ้ก สมบัติเดิมของพิพิธภัณสถานแห่ง พระนคร",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "isVideo": false,
       "model": "https://github.com/kongkrisch/FineArtTest/raw/master/forshow",
       "modelName": "Jacket",
@@ -154,7 +154,7 @@
       "id": 4,
       "name": "เรือพระที่นั่งสุพรรณหงส์",
       "content": "เรือพระที่นั่งสุพรรณหงส์มีขนาดกว้าง 3.17 เมตร ยาว 46.15 เมตร ลึก 0.94 เมตร อัตรากำลังพล 64 นาย แบ่งเป็นนายเรือ 2 นายท้าย 2 ฝีพาย 50 คนธงท้าย 1 คนสัญญาณ 1 คนเห่ขานยาว 1 คนถือฉัตร 7 และมีสำรองฝีพาย 3 นาย เรือสร้างด้วยไม้มีขนาดยาวและใหญ่กว่าเรือธรรมดา เป็นเรือที่ใช้ในพระราชพิธี ตลอดทั้งลำเรือแกะสลักลงรักปิดทองประดับกระจก โขนเรือเป็นรูปหัวหงส์ ปลายปากห้อยพู่ทำจากขนจามรี เหนือพู่เป็นพวงแก้วผลึก ตัวเรือภายนอกทาสีดำ ท้องเรือทาสีแดง ขอบเรือด้านบนแกะสลักอย่างวิจิตรต่อเนื่องตั้งแต่หัวเรือจนถึงท้ายเรือ ท้ายเรือเป็นหางหงส์ ตอนกลางลำเรือมีที่ประทับเรียกว่า ราชบัลลังก์กัลยา แกะสลักลงรักปิดทองประดับกระจก หลังคาพระแท่นกัลยาดาษด้วยผ้าศักราชสีแดงลายทองแผ่ลวด เป็นที่ประทับสำหรับพระเจ้าอยู่หัวหรือพระราชวงศ์ชั้นสูงที่เสด็จแทนพระองค์ ราชบัลลังก์กัลยานี้,สามารถถอดออกแล้วทอดบัลลังก์บุษบก เมื่อเป็นเรือเชิงพระพุทธรูปหรือผ้าพระกฐิน เรือพระที่นั่งสุพรรณหงส์จัดเป็นเรือพระที่นั่งกิ่งประเภทเรือรูปสัตว์ พบว่าเรือที่มีโขนเรือเป็นรูปหงส์ มีการใช้งานมาตั้งแต่สมัยกรุงศรีอยุธยา มีชื่อเรียกแตกต่างกันไป ในรัชกาลสมเด็จพระมหาจักรพรรดิปรากฎชื่อเรือศรีสุพรรณหงส์ เป็นเรือพระที่นั่ง ต่อมาในรัชกาลสมเด็จพระพุทธยอดฟ้าจุฬาโลกฯ โปรดเกล้าโปรดกระหม่อมให้สร้างเรือพระที่นั่งขึ้น ชื่อเรือศรีสุพรรณหงส์ มีการใช้เรือพระที่นั่งลำนี้อีกหลายรัชกาล ต่อมาเมื่อเรือพระที่นั่งศรีสุพรรณหงส์ชำรุด พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวฯ โปรดเกล้าโปรดกระหม่อมให้สร้างเรือขึ้นใหม่ทดแทน โดยยังคงรูปแบบเดิม การสร้างเรือลำนี้มาแล้วเสร็จในสมัยรัชกาลพระบาลสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัวฯ ประกอบพิธีลงน้ำเมื่อวันที่ 13 พฤศจิกายน 2454 ต่อมาพุทธศักราช 2510 เรือลำนี้ได้รับพระราชทานนามว่า เรือพระที่นั่งสุพรรณหงส์ ในสงครามโลกครั้งที่ 2 เรือสุพรรณหงส์ได้รับผลกระทบจากแรงระเบิดทำให้เรือได้รับความเสียหาย พระบามสมเด็จพระเจ้าอยู่หัวฯ ทรงพระกรุณาโปรดเกล้าโปรดกระหม่อมให้ซ่อมเรือขึ้นใหม่ พร้อมทั้งฟื้นฟูกระบวนพยุหยาตราชลมารค พุทธศักราช 2535 องค์การเรือโลกแห่งราชอาณาจักรมอบรางวัลเกียรติยศให้เรือพระที่นั่งสุพรรณหงส์เป็นมรดกโลกทางทะเล",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "isVideo": false,
       "model": "https://github.com/kongkrisch/FineArtTest/raw/master/forshow",
       "modelName": "Ship",
@@ -164,7 +164,7 @@
       "id": 5,
       "name": "ศาสตราจารย์ศิลป์ พีระศรี",
       "content": "ผลงาน : ศาสตราจารย์ศิลป์  พีระศรี\\nศิลปิน : นายสนั่น  ศิลากร\\nเทคนิค : สำริด\\nปีที่สร้าง : พ.ศ. 2507\\nขนาด : สูง 45 เซนติเมตร\\nรายละเอียด : ประติมากรรมส่วนศีรษะอาจารย์ศิลป์ สะท้อนความมีเมตตาและความมุ่งมั่นในอันที่จะพัฒนาวงการศิลปะในประเทศไทย เป็นผลงานที่สนั่นสร้างสรรค์ขึ้นเพื่อรำลึกถึงครูผู้ยิ่งใหญ่ที่จากไป ลักษณะเหมือนจริง\\nผลงานขนาดจริง คือ อนุสาวรีย์ศาสตราจารย์ศิลป์ พีระศรี หน้าคณะจิตรกรรมประติมากรรมและภาพพิมพ์ ในมหาวิทยาลัยศิลปากร เป็นรูปศาสตราจารย์ศิลป์เต็มตัว ขนาดเท่าจริง สวมเสื้อเชิ้ตฮาวาย กางเกงขายาว มือซ้ายถือหนังสือ",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "isVideo": false,
       "model": "https://github.com/kongkrisch/FineArtTest/raw/master/forshow",
       "modelName": "Head",
@@ -174,17 +174,17 @@
       "id": 6,
       "name": "พระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช",
       "content": "ชื่อวัตถุ : พระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช\\nศิลปิน : ศาสตราจารย์ ศิลป์ พีระศรี\\nแบบศิลปะ/ฝีมือช่าง/อายุสมัย : พ.ศ. 2502\\nชนิดวัตถุ : สำริด\\nขนาด : สูง 56 เซนติเมตร",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "isVideo": false,
       "model": "https://github.com/kongkrisch/FineArtTest/raw/master/forshow",
       "modelName": "Uniform",
       "modelVersion": 0
     },
     {
-      "id": 7,
+      "id": 0,
       "name": "หีบหมากทองคำลงยาประดับเพชร พร้อมลูกหีบ 3 หีบ (หีบ 30 ปี)",
       "content": "ศิลปะรัตนโกสินทร์ พ.ศ. 2440  ของราชสกุลเพ็ญพัฒน์ หม่อมหลวงพอจิตต์  ณ ระนอง มอบให้เมื่อ 3 กุมภาพันธ์ พ.ศ.2529",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "isVideo": false,
       "model": "https://github.com/kongkrisch/FineArtTest/raw/master/M12.zip",
       "modelName": "",
@@ -268,7 +268,7 @@
       "id": 1,
       "musuemMapId": 1,
       "name": "Air Pano 2 EN",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "panoImage": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "content": "content EN",
       "buttons": [
@@ -286,7 +286,7 @@
       "id": 2,
       "musuemMapId": 2,
       "name": "Air Pano 3 EN",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+      "clip": "",
       "panoImage": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "content": "content EN",
       "buttons": [
@@ -304,7 +304,7 @@
       "id": 3,
       "musuemMapId": 3,
       "name": "Air Pano 3 EN",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pachabel%20Cannon%20in%20D%20major%20Perfect%20Version.wmv.mp3",
+      "clip": "",
       "panoImage": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "content": "content EN",
       "buttons": [
@@ -322,12 +322,12 @@
       "id": 4,
       "musuemMapId": 0,
       "name": "นอกอาคาร",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "panoImage": "https://github.com/kongkrisch/FineArtTest/raw/master/22.jpg",
       "content": "เนื้อหา",
       "buttons": [
         {
-          "targetId": 0,
+          "targetId": 1,
           "targetName": "Building 1 EN",
           "type": "Building",
           "positionX": 0,
@@ -340,7 +340,7 @@
       "id": 5,
       "musuemMapId": 1,
       "name": "ในอาคาร",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
+      "clip": "",
       "panoImage": "https://github.com/kongkrisch/FineArtTest/raw/master/Peerasi1_1mb.jpg",
       "content": "เนื้อหา",
       "buttons": [
