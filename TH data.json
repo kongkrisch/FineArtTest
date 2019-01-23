@@ -100,16 +100,6 @@
         ]
     },
     "itemDatas": [
-        //{
-        //    "id": 0,
-        //    "name": "Artefact 1",
-        //    "content": "Artefact 1 content EN",
-        //    "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/CHRONO%20CROSS%20GUITAR%20Cover%20-%20Home%20Arni%20Village.mp3",
-        //    "isVideo": false,
-        //    "model": "https://github.com/kongkrisch/FineArtTest/raw/master/musuem1.model",
-        //    "modelName": "model 1-12",
-        //    "modelVersion": 0
-        //},
         {
             "id": 0,
             "name": "Artefact 1",
