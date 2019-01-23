@@ -3,28 +3,28 @@
         "thumbnails": [
             {
                 "targetId": 0,
-                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/1-01.jpg",
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/5.jpg",
                 "name": "musuem 1 TH\nABC",
                 "description": "description 1 TH",
                 "type": "None"
             },
             {
                 "targetId": 1,
-                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/Peerasi1_1mb.jpg",
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/3.jpg",
                 "name": "musuem 2 TH",
                 "description": "description 2 TH",
                 "type": "None"
             },
             {
                 "targetId": 2,
-                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%203.jpg",
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/2.jpg",
                 "name": "musuem 3 TH",
                 "description": "description 3 TH",
                 "type": "None"
             },
             {
                 "targetId": 3,
-                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%203.jpg",//"https://github.com/kongkrisch/FineArtTest/raw/master/Peerasri_1.jpg",
+                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/4.jpg", //"https://github.com/kongkrisch/FineArtTest/raw/master/Peerasri_1.jpg",
                 "name": "musuem 4 TH",
                 "description": "description 4 TH",
                 "type": "None"
