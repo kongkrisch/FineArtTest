@@ -4,28 +4,28 @@
              {
                 "targetId": 0,
                 "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/5.jpg",
-                "name": "พิพิธภัณฑสถานแห่งชาติ\\nพระนคร",
+                "name": "พิพิธภัณฑสถานแห่งชาติ/nพระนคร",
                 "description": "เขตพระนคร",
                 "type": "None"
             },
             {
                 "targetId": 1,
                 "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/3.jpg",
-                "name": "พิพิธภัณฑสถานแห่งชาติ\\nเรือพระที่นั่ง",
+                "name": "พิพิธภัณฑสถานแห่งชาติ/nเรือพระที่นั่ง",
                 "description": "เขตบางกอกน้อย",
                 "type": "None"
             },
             {
                 "targetId": 2,
                 "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/2.jpg",
-                "name": "พิพิธภัณฑสถานแห่งชาติ\\nหอศิลป์ เจ้าฟ้า",
+                "name": "พิพิธภัณฑสถานแห่งชาติ/nหอศิลป์ เจ้าฟ้า",
                 "description": "เขตพระนคร",
                 "type": "None"
             },
             {
                 "targetId": 3,
                 "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/4.jpg", //"https://github.com/kongkrisch/FineArtTest/raw/master/Peerasri_1.jpg",
-                "name": "พิพิธภัณฑสถานแห่งชาติ\\nศิลป์ พีระศรี อนุสรณ์",
+                "name": "พิพิธภัณฑสถานแห่งชาติ/nศิลป์ พีระศรี อนุสรณ์",
                 "description": "เขตพระนคร",
                 "type": "None"
             }
