@@ -36,7 +36,7 @@
         "buttons": [
             {
                 "targetId": 0,
-                "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri1.jpg",//"https://github.com/kongkrisch/FineArtTest/raw/master/Peerasri_1.jpg",
+                "imageLink": "File://C:/Users/Kongkrisch.l/Desktop/Peerasri1.jpg",
                 "name": "artefact 1 EN",
                 "description": "description artefact 1 EN",
                 "type": "Artefact"
