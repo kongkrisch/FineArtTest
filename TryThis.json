@@ -2,34 +2,33 @@
   "homeData": {
     "thumbnails": [
       {
-                "targetId": 0,
-                "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%201.jpg",
-                "name": "งงงงงงงงงงงงงง 1 EN",
-                "description": "description 1 EN",
-                "type": "None"
-        },
-        {
-            "targetId": 1,
-            "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%202.JPG",
-            "name": "musuem 2 EN",
-            "description": "description 2 EN",
-            "type": "None"
-        },
-        {
-            "targetId": 2,
-            "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/home%203.jpg",
-            "name": "musuem 3 EN",
-            "description": "description 3 EN",
-            "type": "None"
-        },
-        {
-            "targetId": 3,
-            "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/Peerasri_1.jpg",
-            "name": "musuem 4 EN",
-            "description": "description 4 EN",
-            "type": "None"
-        }
-        
+        "targetId": 0,
+        "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/5.jpg",
+        "name": "พิพิธภัณฑสถานแห่งชาติ\\nพระนคร",
+        "description": "เขตพระนคร",
+        "type": "None"
+      },
+      {
+        "targetId": 1,
+        "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/3.jpg",
+        "name": "พิพิธภัณฑสถานแห่งชาติ\\nเรือพระที่นั่ง",
+        "description": "เขตบางกอกน้อย",
+        "type": "None"
+      },
+      {
+        "targetId": 2,
+        "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/2.jpg",
+        "name": "พิพิธภัณฑสถานแห่งชาติ\\nหอศิลป์ เจ้าฟ้า",
+        "description": "เขตพระนคร",
+        "type": "None"
+      },
+      {
+        "targetId": 3,
+        "imageLink": "https://github.com/kongkrisch/FineArtTest/raw/master/4.jpg",
+        "name": "พิพิธภัณฑสถานแห่งชาติ\\nศิลป์ พีระศรี อนุสรณ์",
+        "description": "เขตพระนคร",
+        "type": "None"
+      }
     ]
   },
   "ItemThumbnails": {
