@@ -134,7 +134,7 @@
       "id": 6,
       "name": "ภาพชุดวรรณคดีไทย",
       "content": "ชื่อวัตถุ : ภาพชุดวรรณคดีไทย\\nศิลปิน : ไม่ปรากฏนามศิลปิน\\nแบบศิลปะ/ฝีมือช่าง/อายุสมัย : สมัยรัชกาลที่ 5 – 6\\nชนิดวัตถุ : สีฝุ่นบนกระดาษ\\nขนาด : 116 x 67.5 เซนติเมตร",
-      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Pirasi5M.mp4",
+      "clip": "https://github.com/kongkrisch/FineArtTest/raw/master/Cf_Param_10.mp4",
       "isVideo": true,
       "model": "",
       "modelName": "",
@@ -267,28 +267,28 @@
     {
       "id": 1,
       "musuemMapId": 1,
-      "name": "Air Pano 2 EN",
+      "name": "ในอาคาร",
       "clip": "",
-      "panoImage": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "content": "content EN",
+      "panoImage": "https://github.com/kongkrisch/FineArtTest/raw/master/08.jpg",
+      "content": "content TH",
       "buttons": [
         {
           "targetId": 6,
-          "targetName": "SomeWhere 1 EN",
+          "targetName": "SomeWhere 1 TH",
           "type": "None",
-          "positionX": 1.5,
+          "positionX": 0,
           "positionY": 0,
-          "positionZ": 4.15
+          "positionZ": 0
         }
       ]
     },
     {
       "id": 2,
       "musuemMapId": 2,
-      "name": "Air Pano 3 EN",
+      "name": "นอกอาคาร",
       "clip": "",
-      "panoImage": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "content": "content EN",
+      "panoImage": "https://github.com/kongkrisch/FineArtTest/raw/master/24.jpg",
+      "content": "content TH",
       "buttons": [
         {
           "targetId": 6,
@@ -303,14 +303,14 @@
     {
       "id": 3,
       "musuemMapId": 3,
-      "name": "Air Pano 3 EN",
+      "name": "นอกอาคาร",
       "clip": "",
-      "panoImage": "https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "content": "content EN",
+      "panoImage": "https://github.com/kongkrisch/FineArtTest/raw/master/22.jpg",
+      "content": "content TN",
       "buttons": [
         {
           "targetId": 6,
-          "targetName": "SomeWhere 1 EN",
+          "targetName": "SomeWhere 1 TN",
           "type": "None",
           "positionX": 1.5,
           "positionY": 0,
@@ -328,7 +328,7 @@
       "buttons": [
         {
           "targetId": 1,
-          "targetName": "Building 1 EN",
+          "targetName": "Building 1 TH",
           "type": "Building",
           "positionX": 0,
           "positionY": 0,
